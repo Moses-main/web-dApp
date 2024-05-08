@@ -1,7 +1,3 @@
-Sure! Here's a README file for setting up and running the provided dApp:
-
----
-
 # LearnWeb3 First dApp
 
 This is a simple decentralized application (dApp) built using Ethereum smart contracts and HTML/JavaScript for the frontend. The dApp allows users to set and get their mood using a smart contract deployed on the Ethereum blockchain.
